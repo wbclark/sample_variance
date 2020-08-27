@@ -2,7 +2,7 @@ from numpy.random import uniform
 from numpy import mean
 from numpy import std
 
-# white hits, yellow attacks, bleed ticks, etc... rough, stupid estimate, and probably too low
+# yellow attacks, bleed ticks, poison ticks, damage procs, etc... rough, stupid estimate, and probably too low
 damage_rolls_per_minute = 140
 
 # length of encounter to simulate

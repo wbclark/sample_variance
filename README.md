@@ -21,5 +21,5 @@ course of a moderate number of rolls, the actual variance in AVERAGE damage per 
 The standard deviation of average damage roll over all encounters was 0.11698971369890841, meaning very loosely that "most" encounters had an average damage roll in the range of
 99.88 to 100.12
 
-The conclusion: a +-5% damage range on individual rolls translates to roughly 0.014% variance in performance due to roll variance over the course of an encounter, which
-is ultimately basically negligible.
+The conclusion: a +-5% damage range on individual rolls translates to roughly 0.014% variance in performance due to roll variance over the course of a 5 minute encounter, which
+is for all practically purposes negligible. The ONLY impact this slight variance in individual damage rolls introduces is lowering the mental fatigue from seeing the same numbersrepeatedly.
