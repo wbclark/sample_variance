@@ -10,7 +10,7 @@ highest average damage roll over all encounters was: 100.26679823342167
 standard deviation of average damage roll over all encounters was: 0.11698971369890841
 ```
 
-In the script, we simulated 100 encounters of 5 minutes each and 140 damage rolls ("events") per encounter.
+In the script, we simulated 100 encounters of 5 minutes each and 140 damage rolls ("events") per minute of the encounter.
 
 Each individual damage roll was sampled from a uniform distribution with a range of 95 to 105.
 
