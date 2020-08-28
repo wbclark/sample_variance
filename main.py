@@ -33,6 +33,7 @@ standard_deviation = std(means)
 
 # print summary
 print("simulated " + str(num_encounters) + " encounters")
+print("each encounter was simulated with a duration of " + str(mins_encounter) + " minutes and " +str(damage_rolls_per_minute) + " damage rolls per minute")
 print("lowest average damage roll over all encounters was: " + str(minimum_avg_damage))
 print("highest average damage roll over all encounters was: " + str(maximum_avg_damage))
 print("standard deviation of average damage roll over all encounters was: " + str(standard_deviation))

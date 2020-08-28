@@ -5,6 +5,7 @@ Here is a basic example:
 ```
 $ python3 main.py 
 simulated 100 encounters
+each encounter was simulated with a duration of 5 minutes and 140 damage rolls per minute
 lowest average damage roll over all encounters was: 99.72331184375678
 highest average damage roll over all encounters was: 100.26679823342167
 standard deviation of average damage roll over all encounters was: 0.11698971369890841
